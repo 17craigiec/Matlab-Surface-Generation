@@ -17,6 +17,6 @@ function plotSurface(inMatrix)
 % end
 
 %surf(Y1,X1,Z1);
-surf(inMatrix);
+surf(inMatrix); hold on
 end
 
